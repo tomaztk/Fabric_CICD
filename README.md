@@ -1,4 +1,4 @@
-# GitHub-fabric-cicd-sample to operationalize fabric-cicd to work with Microsoft Fabric and GitHub Actions
+# GitHub & Fabric CI/CD sample to operationalize fabric-cicd to work with Microsoft Fabric and GitHub Actions
 Contains a GitHub workflow which can be used operationalize [fabric-cicd](https://github.com/microsoft/fabric-cicd) to work with Microsoft Fabric and GitHub Actions. 
 
 You can find the workflow in the [/.github/workflows subfolder](/.github/workflows). In the workflow there are comments about what variables are required.
